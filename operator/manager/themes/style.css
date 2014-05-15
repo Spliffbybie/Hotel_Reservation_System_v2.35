@@ -1,0 +1,31 @@
+TR {
+	FONT-SIZE: 8pt; 
+	FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; 
+	
+}
+TD {
+	FONT-SIZE: 10pt; 
+	FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; 
+	
+
+}
+
+TD.WIN
+{
+FONT-SIZE: 10pt; 
+FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; 
+BACKGROUND: #c0c0c0;
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; TEXT-ALIGN: justify
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; TEXT-ALIGN: justify
+}
+.a1 {
+	FONT-SIZE: 8pt; FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif
+}
+.pw {
+	FONT-SIZE: 10pt; FONT-FAMILY: "MS Sans Serif", Geneva, sans-serif; TEXT-ALIGN: justify
+}
+

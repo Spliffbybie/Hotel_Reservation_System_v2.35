@@ -1,0 +1,34 @@
+RICS HRS License Agreement
+ 
+By using this software program, you agree to be obliged by the terms and conditions of this License Agreement. 
+
+Uses 
+This License Agreement only grants the licensee to install this software program onto a single server, in use by a single domain name and a single web site. If the licensee uses this software program under multiple domains or subdomains, the licensee must purchase additional licenses for each domain or subdomain. The licensee receive free upgrade for one year. 
+
+Modifications And Changes 
+The licensee may modify or change this software program to suit licensee's needs, at licensee's own risk. The licensee may modify the source code for licensee's own use. However, the modified source code must not be resold or distributed. 
+
+Copyright Notices 
+Copyright notices Ltd luded within the PHP scripts and within source files of this software program must not be modified or removed. These copyrights notices, including "powered by RICS" wording w/link back to our homepage, and the about document on help page, must be visible to the end user. Licensee's use of this software program permits RICS Ltd. to refer the licensee in promotional materials and/or on our web site, unless an expressed written agreement is made to prohibit such use. 
+
+Transfer Of License 
+The licensee is not allowed to transfer this license to any other party without expressed written consent of RICS Ltd. 
+
+Termination 
+RICS Ltd. shall have right, at any time, to terminate this license if the licensee breaches this license in any manner. 
+
+Warranties 
+This software program and the accompanying files are sold "as is" and without warranties as to performance or merchantability or any other warranties whether expressed or implied. the seller also makes no warranty of fitness for a particular purpose. 
+
+RICS Ltd. is not liable for any conduct associated with bulletin board activity, nor for any messages posted using this program. 
+
+Any liability of the seller will be limited exclusively to product replacement or refund of purchase price. 
+
+The licensee must assume the entire risk of using the software program. 
+
+Jurisdiction 
+This License Agreement is governed by the laws of the Saint-Petersburg, Russa. Both the licensee and RICS Ltd. agree to submit to the jurisdiction of the courts of the London and the venue of the County of Saint-Petersburg, Russa. 
+ 
+ 
+ 
+ 

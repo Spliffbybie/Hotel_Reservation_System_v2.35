@@ -1,0 +1,56 @@
+BODY {
+	background: #676963;
+	color:#ffffff;
+	text-decoration: none;
+	font-family: Goudy Old Style, Conneticut Gothic, Times New Roman;
+}
+
+.glow:hover {color:#ffffff ;}
+
+.glow 
+{
+	color:#ffffff ;
+	text-decoration: none;
+	font-family: Tahoma, Verdana, Arial;
+}
+
+
+
+.menu:hover
+{	
+	color: #ddaa00;
+	text-decoration:underline;
+	
+}
+
+.menu 
+{
+	color: #000000;
+	text-decoration: none;
+	font-family: Goudy Old Style, Conneticut Gothic, Times New Roman;
+	font-size: 10pt;
+}
+
+
+
+
+INPUT {
+	background: white;
+	color: black;
+}
+
+TH {
+	color: #000000;
+}
+
+TD {
+	color: #553300;
+}
+
+A {
+	color: #ffffff;
+}
+
+TABLE {
+	 border-color: transparent;
+}

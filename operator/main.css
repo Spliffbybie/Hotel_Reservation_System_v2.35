@@ -1,0 +1,56 @@
+
+.glow:hover {color: RED;}
+
+.glow 
+{
+	color:#ffffff ;
+	text-decoration: none;
+	font-family: Tahoma, Verdana, Arial;
+}
+
+
+
+.menu:hover
+{	
+	color: #ddaa00;
+	text-decoration:underline;
+	
+}
+
+.menu 
+{
+	color: #000000;
+	text-decoration: none;
+	font-family: Goudy Old Style, Conneticut Gothic, Times New Roman;
+	font-size: 10pt;
+}
+
+
+
+BODY {
+	background: #ffe0ad;
+	color: #cc9900;
+	text-decoration: none;
+	font-family: Goudy Old Style, Conneticut Gothic, Times New Roman;
+}
+
+INPUT {
+	background: white;
+	color: black;
+}
+
+TH {
+	color: #222222;
+}
+
+TD {
+	color: #664400;
+}
+
+A {
+	color: #CC9900;
+}
+
+TABLE {
+	 border-color: transparent;
+}
